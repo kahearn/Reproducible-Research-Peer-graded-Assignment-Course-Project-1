@@ -1,6 +1,9 @@
 # Reproducible Research: Peer Assessment 1
 
 
+```r
+knitr::opts_chunk$set(echo = TRUE)
+```
 # Reading and processing the data
  1. Reading the data into R
  2. Removing not available data

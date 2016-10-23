@@ -2,10 +2,11 @@
 title: "Reproducible Research: Peer Assessment 1"
 output: 
   html_document: 
+    fig_caption: yes
     keep_md: yes
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=TRUE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 # Reading and processing the data
